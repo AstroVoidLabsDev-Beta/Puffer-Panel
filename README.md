@@ -49,4 +49,4 @@ Open the web interface in your browser and log in with the account you created.
 
 **Subscribe on YouTube:** [@ITZ_YTANSH_OFFICAL]([https://youtube.com/@ITZ_YT_ANSH_OFFICIAL])
 
-![PufferPanel Footer](https://th.bing.com/th?q=GitHub+Icon.png&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247) (https://th.bing.com/th/id/ODF.H6VvZbUVFvVoaERNfa-MPg?w=32&h=32&qlt=90&pcl=fffffa&o=6&cb=thwsc4&pid=1.2)
+![PufferPanel Footer](https://th.bing.com/th?q=GitHub+Icon.png&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&pid=InlineBlock&rm=3&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247)
