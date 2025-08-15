@@ -1,4 +1,4 @@
-![PufferPanel Banner](https://th.bing.com/th/id/OIP.eQs-B1YO9iTNw-6JvLTbLQAAAA?w=139&h=150&c=7&r=0&o=7&pid=1.7&rm=3)  Puffer Panel
+![PufferPanel Banner](https://th.bing.com/th/id/OIP.eQs-B1YO9iTNw-6JvLTbLQAAAA?w=139&h=150&c=7&r=0&o=7&pid=1.7&rm=3)  Puffer Panel By AstroVoidLabsDev-Beta
 
 # Install PufferPanel Anywhere (CodeSandbox, GitHub Codespaces, Gitpod, VPS, etc.)
 
